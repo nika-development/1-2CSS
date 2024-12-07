@@ -1,0 +1,139 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1 {
+    color: #000;
+    font-size: 72px;
+    text-align: center;    
+}
+
+#box {
+    margin-left: 55px;
+    width: 568px;
+    
+}
+
+h2 {
+    color: #000;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#text {
+    margin-top: 16px;
+    color: #414651;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+#t{
+    margin-top: 16px;
+    color: #155EEF ;
+    font-size: 16px;
+}
+
+#te {
+    color: #155EEF ;
+    font-size: 16px;
+}
+
+#l {
+    margin-left: 20px;
+    color: #155EEF ;
+    font-size: 16px;
+}
+
+#readd {
+    font-size: 24px;
+    margin-top: 32px;
+    padding: 12px 32px;
+    border: 2px solid #CEA201 ;
+    color: #CEA201;
+    background-color: white;
+    margin-left: 55px;
+}
+
+#read {
+    margin-left: 55px;
+    width: 722px;
+}
+
+h3 {
+    color: #000;
+    font-size: 40px;
+    margin-top: 74px;
+}
+
+#you {
+    color: #414651;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 16px;
+}
+
+#your {
+    color: #00C76E;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 24px;
+}
+#yourself {
+    color: #FF5DA3;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 16px;
+
+}
+
+#am {
+    margin-top: 24px;
+}
+
+#saa { 
+    padding: 16px;
+    border: 6px solid #C11574;
+    background-color: #FFDEF0;
+}
+#block {
+color: #414651;
+font-size: 24px;
+}
+ 
+#n1 {
+    margin-top: 16px;
+    color: #C27512 ;
+    list-style-type: none;
+}
+#n2 {
+    margin-top: 8px;
+    
+}
+#n4 {
+    margin-top: 24px;
+}
+
+#n5 {
+    color: #00D4BC;
+
+font-size: 24px;
+font-weight: 400;
+line-height: 32px; /* 133.333% */
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-decoration-skip-ink: auto;
+text-decoration-thickness: auto;
+text-underline-offset: auto;
+text-underline-position: from-font;
+text-align: right;
+margin: 24px;
+
+
+}
